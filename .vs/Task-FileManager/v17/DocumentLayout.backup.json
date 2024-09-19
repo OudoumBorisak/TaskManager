@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{D9BFAD14-5A5C-4D35-A751-88231871C4C5}|Task-FileManager\\Task-FileManager.vcxproj|solutionrelative:Task-FileManager\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9BFAD14-5A5C-4D35-A751-88231871C4C5}|Task-FileManager\\Task-FileManager.vcxproj|C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D9BFAD14-5A5C-4D35-A751-88231871C4C5}|Task-FileManager\\Task-FileManager.vcxproj|solutionrelative:Task-FileManager\\FileManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -42,11 +45,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "filesystem",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\filesystem",
+              "ViewState": "AgIAADwHAAAAAAAAAAAmwEAHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-19T14:10:27.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,39 +72,40 @@
               "RelativeDocumentMoniker": "Task-FileManager\\Main.cpp",
               "ToolTip": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\Main.cpp",
               "RelativeToolTip": "Task-FileManager\\Main.cpp",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-19T01:43:28.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FileManager.cpp",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\FileManager.cpp",
               "RelativeDocumentMoniker": "Task-FileManager\\FileManager.cpp",
               "ToolTip": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\FileManager.cpp",
               "RelativeToolTip": "Task-FileManager\\FileManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-19T01:55:07.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FileManager.h",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\FileManager.h",
               "RelativeDocumentMoniker": "Task-FileManager\\FileManager.h",
               "ToolTip": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\FileManager.h",
               "RelativeToolTip": "Task-FileManager\\FileManager.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-19T01:54:18.715Z"
+              "WhenOpened": "2024-09-19T01:54:18.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Folder.h",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\Folder.h",
               "RelativeDocumentMoniker": "Task-FileManager\\Folder.h",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Folder.cpp",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\Folder.cpp",
               "RelativeDocumentMoniker": "Task-FileManager\\Folder.cpp",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RegularFile.cpp",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\RegularFile.cpp",
               "RelativeDocumentMoniker": "Task-FileManager\\RegularFile.cpp",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RegularFile.h",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\RegularFile.h",
               "RelativeDocumentMoniker": "Task-FileManager\\RegularFile.h",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "File.h",
               "DocumentMoniker": "C:\\Users\\Maxx\\source\\repos\\Task-FileManager\\Task-FileManager\\File.h",
               "RelativeDocumentMoniker": "Task-FileManager\\File.h",
